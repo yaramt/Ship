@@ -34,7 +34,7 @@ ________________________________________________________________________________
 - Unloading container: Container unload(X x, Y y) <br/>
 - Moving container from one place to another: void move(X from_x, Y from_y, X to_x, Y to_y) <br/>
 - *begin* and *end* iterators iterating over all containers on the ship.  <br/>
-- The following functions retrun a "view" of the ship that can be iterated over using the *begin* and *end* iterators:  <br/>
+- The following functions return a "view" of the ship that can be iterated over using the *begin* and *end* iterators:  <br/>
   getContainersViewByPosition(X x, Y y) <br/>
   getContainersViewByGroup(const string& groupingName, const string& groupName) <br/>
   
