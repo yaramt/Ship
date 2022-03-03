@@ -21,7 +21,8 @@ ________________________________________________________________________________
   A ship has a finite route, containing any number of destination ports. <br/>
 - Cranes operation <br/>
   The dock cranes can pull any container if there is no other container on top of it. <br/>
-  
+- Stowage Process  <br/>
+  When a ship reaches a port: it unloads all the containers that should be unloaded at this location and loads all the containers that should be loaded to it. <br/>
 # Ship’s API <br/>
 
 Ship’s Constructor (1):
