@@ -1,7 +1,7 @@
 # Container Ship Stowage Plan <br/>
 This project is an implementation of a stowage plan for a container ship.<br/>
 A stowage plan for container ships is the plan by which different types of container vessels are loaded with containers of specific standard sizes. The plans are used to maximize the economy of shipping and safety on board. <br/>  <br/>
-![image](https://user-images.githubusercontent.com/98098222/156610179-9d7a10f5-35b5-49e4-b3ce-f861f7c81de1.png) <br/>
+![image](https://user-images.githubusercontent.com/98098222/156651366-36df2b77-2a21-4f3b-b6bb-1facd1e374e4.png) <br/>
 _________________________________________________________________________________________________________________________________________________________________________________
 
 # Definitions <br/>
